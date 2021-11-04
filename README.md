@@ -6,6 +6,6 @@ Heroku Link : https://fwb49sanamsetty.herokuapp.com/
 
 Class ball
 
-Color(string)
-Material(string)
-Cost(number)
+color(string)
+material(string)
+cost(number)
